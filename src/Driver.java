@@ -52,6 +52,10 @@ public class Driver {
 		
 		//Print to demonstrate the the order is guaranteed to be sorted
 		System.out.println(tm);
+		
+		/*
+		 * You should use a tree amp if you need to guarantee the order of the pairs
+		 */
 	}
 
 }
